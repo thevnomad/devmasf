@@ -10,9 +10,9 @@ As a self-taught developer, I use internet as my main source of learning. Platfo
 
 🌎 Digital nomad, who loves to travel around the world, learning from different cultures and people. Travelling gave me invaluable experiences and confidence about solving daily life challenges. Vegetarian, with a high interest in generate "zero-waste" and topics related with agriculture and nature.
 
-- 🔨 I’m currently working on looking for job
-- 🌱 I’m currently learning Data Structures and Algorithms
-- ✨ I’m looking to collaborate on InfoSec or Crypto projects
+- 🔨 **Looking for job**
+- 🌱 Improving my skills in **Data Structures and Algorithms**
+- ✨ I’m looking to collaborate on **infosec or crypto projects**
 
 <!--
 **devmasf/devmasf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

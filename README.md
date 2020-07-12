@@ -3,7 +3,7 @@
 
 ## Hi, there 👋
 
-*I am self-taught Web Developer focusing on Back-end, with experience building MERN Full Stack web applications. InfoSec enthusiast. Passionate for open source. Looking forward levelling up my career as a Software Developer.*
+*I am self-taught Web Developer focusing on Back-end, with experience building MEVN Full Stack web applications. InfoSec enthusiast. Passionate for open source. Looking forward levelling up my career as a Software Developer.*
 
 💻 Interested in creating a free, private and secure internet. Backer of creating strong bases from the fundamentals.
 As a self-taught developer, I use internet as my main source of learning. Platforms like, Udemy and Pluralsight, YouTube channels and forums are some of my favourites resources.

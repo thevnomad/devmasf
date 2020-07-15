@@ -12,7 +12,9 @@ As a self-taught developer, I use internet as my main source of learning. Platfo
 
 - 🔨 **Looking for job**
 - 🌱 Improving my skills in **Data Structures and Algorithms**
-- ✨ I’m looking to collaborate on **infosec or crypto projects**
+- 🚀 I’m looking to collaborate on **infosec or crypto projects**
+
+[LinkedIn](https://www.linkedin.com/in/devmasf/) | [Website 🔗](https://devnomad.surge.sh/) | [AngelList ✌️](https://angel.co/u/devmasf)
 
 <!--
 **devmasf/devmasf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

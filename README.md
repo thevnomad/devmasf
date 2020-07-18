@@ -10,7 +10,7 @@ As a self-taught developer, I use internet as my main source of learning. Platfo
 
 🌎 Digital nomad, who loves to travel around the world, learning from different cultures and people. Travelling gave me invaluable experiences and confidence about solving daily life challenges. Vegetarian, with a high interest in generate "zero-waste" and topics related with agriculture and nature.
 
-- 👨‍💻 **Looking for remote jobs!**
+- 👨‍💻 **Looking for challenging remote jobs!**
 - 🌱 Improving my skills in **Data Structures and Algorithms**
 - 🧙‍ Looking to collaborate on **crypto projects**
 

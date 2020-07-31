@@ -14,7 +14,7 @@ As a self-taught developer, I use internet as my main source of learning. Platfo
 
 - 👨‍💻 **Looking for challenging remote jobs!**
 - 🌱 Improving my skills in **Data Structures and Algorithms**
-- 🧙‍ Looking to collaborate on **crypto projects**
+- 🧙‍ Looking to collaborate on **environment-related projects!**
 
 <p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original.svg" alt="vuejs" width="25" height="25"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="25" height="25"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" alt="express" width="25" height="25"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="25" height="25"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="25" height="25"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="25" height="25"/> </p><p align="center"></p>
 

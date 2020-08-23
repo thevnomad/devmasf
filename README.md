@@ -3,18 +3,16 @@
 
 <h1 align="center">Hi, there! 👋 I'm Francisco</h1>
 
+<h4 align="center"><em><strong>Developing and designing with love for the environment at <a href="https://www.natridis.com"> Natridis </a><img src="https://www.natridis.com/assets/img/logo_leaf.png" height="15" width="15" padding-top="100"/></em></strong></h4>
+
 <p align="center"><a href="https://linkedin.com/in/devmasf" target="blank"><img align="center" src="https://devicons.github.io/devicon/devicon.git/icons/linkedin/linkedin-original.svg" alt="devmasf" height="20" width="20" /></a> <a href="https://angel.co/u/devmasf" target="blank"><img align="center" src="https://img.icons8.com/ios/2x/angelist.png" alt="devmasf" height="22" width="22" /></a> <a href="https://devnomad.surge.sh/" target="blank"><img align="center" src="https://img.icons8.com/metro/2x/globe.png" height="17" width="17" /></a></p>
 
-*A self-taught Developer focusing on Back-end, with experience building Full Stack web applications. InfoSec enthusiast. Passionate for open source. Looking forward levelling up my career as a Software Developer.*
+🚀 I'm a self-taught Developer and InfoSec enthusiast, with a high interest on building fault-tolerant, highly-reliable systems with strong and consistent encryption. Occasional tech blogger at DEV.to and Hashnode. Linux user and passionate for open source. Interested in creating a free, private and secure internet. Backer of creating strong bases from the fundamentals. 
 
-🚀 Interested in creating a free, private and secure internet. Backer of creating strong bases from the fundamentals.
-As a self-taught developer, I use internet as my main source of learning. Platforms like, Udemy and Pluralsight, YouTube channels and forums are some of my favourites resources.
+🌎 Also, adventurous digital nomad, who loves nature and travel around the world, learning from different cultures and people. Travelling gave me invaluable experiences and confidence about solving daily life challenges. Vegan, with a high interest in generate "zero-waste" and topics related with agriculture and nature. 
 
-🌎 Digital nomad, who loves to travel around the world, learning from different cultures and people. Travelling gave me invaluable experiences and confidence about solving daily life challenges. Vegetarian, with a high interest in generate "zero-waste" and topics related with agriculture and nature.
-
-- 👨‍💻 **Looking for challenging remote jobs!**
 - 🌱 Improving my skills in **Data Structures and Algorithms**
-- 🧙‍ Looking to collaborate on **environment-related projects!**
+- 🧙‍ Looking to collaborate on **environmental projects!**
 
 <p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original.svg" alt="vuejs" width="25" height="25"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="25" height="25"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" alt="express" width="25" height="25"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="25" height="25"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="25" height="25"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="25" height="25"/> </p><p align="center"></p>
 

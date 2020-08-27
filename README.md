@@ -7,7 +7,7 @@
 
 <p align="center"><a href="https://linkedin.com/in/devmasf" target="blank"><img align="center" src="https://devicons.github.io/devicon/devicon.git/icons/linkedin/linkedin-original.svg" alt="devmasf" height="20" width="20" /></a> <a href="https://angel.co/u/devmasf" target="blank"><img align="center" src="https://img.icons8.com/ios/2x/angelist.png" alt="devmasf" height="22" width="22" /></a> <a href="https://devnomad.surge.sh/" target="blank"><img align="center" src="https://img.icons8.com/metro/2x/globe.png" height="17" width="17" /></a></p>
 
-🚀 I'm a self-taught Developer and InfoSec enthusiast, with a high interest on building fault-tolerant, highly-reliable systems with strong and consistent encryption. Occasional tech blogger at DEV.to and Hashnode. Linux user and passionate for open source. Interested in creating a free, private and secure internet. Backer of creating strong bases from the fundamentals. 
+🚀 I'm a self-taught Developer and InfoSec enthusiast, with a high interest on building fault-tolerant, highly-reliable systems with strong and consistent encryption. Occasional tech blogger at <a href="https://dev.to/devmasf"> DEV.to</a> and <a href="https://hashnode.com/@masf"> Hashnode</a>. Linux user and passionate for open source. Interested in creating a free, private and secure internet. Backer of creating strong bases from the fundamentals. 
 
 🌎 Also, adventurous digital nomad, who loves nature and travel around the world, learning from different cultures and people. Travelling gave me invaluable experiences and confidence about solving daily life challenges. Vegan, with a high interest in generate "zero-waste" and topics related with agriculture and nature. 
 

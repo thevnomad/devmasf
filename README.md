@@ -1,9 +1,7 @@
 <!-- ![alt text](https://images.unsplash.com/photo-1477948879622-5f16e220fa42?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80) -->
 <!-- ![alt text](https://media-exp1.licdn.com/dms/image/C4E16AQGb8nitjNusOg/profile-displaybackgroundimage-shrink_200_800/0?e=1599696000&v=beta&t=IUbrlWWAwf6WjfB19nMI2sSHZA5m8UOh1SmIU6RQlt4) -->
 
-<h1 align="center">Hi, there! 👋 I'm Francisco</h1>
-
-<p align="center"><a href="https://linkedin.com/in/thevnomad" target="blank"><img align="center" src="https://devicons.github.io/devicon/devicon.git/icons/linkedin/linkedin-original.svg" alt="thevnomad" height="20" width="20" /></a> <a href="https://angel.co/u/thevnomad" target="blank"><img align="center" src="https://img.icons8.com/ios/2x/angelist.png" alt="devmasf" height="22" width="22" /></a> <a href="https://www.thevnomad.com/" target="blank"><img align="center" src="https://img.icons8.com/metro/2x/globe.png" height="17" width="17" /></a></p>
+<h1 align="center">Hi, there! I'm Francisco</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thevnomad" alt="thevnomad" /> </p>
 

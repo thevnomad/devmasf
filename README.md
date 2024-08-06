@@ -3,18 +3,7 @@
 
 <h1 align="center">Hi, there! 👋 I'm Francisco</h1>
 
-<h4 align="center"><em><strong>Developing and designing with love for the environment at <a href="https://www.natridis.com"> Natridis </a><img src="https://www.natridis.com/assets/img/logo_leaf.png" height="15" width="15" padding-top="100"/></em></strong></h4>
-
 <p align="center"><a href="https://linkedin.com/in/thevnomad" target="blank"><img align="center" src="https://devicons.github.io/devicon/devicon.git/icons/linkedin/linkedin-original.svg" alt="thevnomad" height="20" width="20" /></a> <a href="https://angel.co/u/thevnomad" target="blank"><img align="center" src="https://img.icons8.com/ios/2x/angelist.png" alt="devmasf" height="22" width="22" /></a> <a href="https://www.thevnomad.com/" target="blank"><img align="center" src="https://img.icons8.com/metro/2x/globe.png" height="17" width="17" /></a></p>
-
-🚀 I'm a self-taught Developer and InfoSec enthusiast, with a high interest on building fault-tolerant, highly-reliable systems with strong and consistent encryption. Occasional tech blogger at <a href="https://dev.to/thevnomad"> DEV.to</a> and <a href="https://hashnode.com/@masf"> Hashnode</a>. Linux user and passionate for open source. Interested in creating a free, private and secure internet. Backer of creating strong bases from the fundamentals. 
-
-🌎 Also, adventurous digital nomad, who loves nature and travel around the world, learning from different cultures and people. Travelling gave me invaluable experiences and confidence about solving daily life challenges. Vegan, with a high interest in generate "zero-waste" and topics related with agriculture and nature. 
-
-- 🌱 Improving my skills in **Data Structures and Algorithms**
-- 🧙‍ Looking to collaborate on **environmental projects!**
-
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="25" height="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="25" height="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="25" height="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="25" height="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="25" height="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="25" height="25"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="25" height="25"/> </p><p align="center"></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thevnomad" alt="thevnomad" /> </p>
 
